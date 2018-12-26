@@ -20,3 +20,6 @@ YourLeaf Android application use only ButterKnife as an external dependency for 
 
 ## Twinck it
 Modify, break, update and stay curious. Hit me up with your changes or questions and like awayse feel free to coppy and paste.
+
+## Privacy
+We truly respect your privacy and because of that, the entire platform is P2P oriented. When it comes to the information we store it is stored only locally at your device.
