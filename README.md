@@ -1,5 +1,5 @@
 # YourLeaf
-YourLeaf is an Android app designed for YourLeaf IoT platform. YourLeaf platform is used for monitoring and taking care of your plant remotely. The project is completely free.
+YourLeaf is an Android app designed for YourLeaf IoT platform. YourLeaf platform is used for monitoring and taking care of your plant remotely. The project is completely free. The application is already available at [Google Play](https://play.google.com/store/apps/details?id=com.kaloyanov.ivan.yourleaf).
 
 ## Target
 This version of YourLeaf application is made for Android devices. The minimum sdk version is 14 and target sdk version is 28.
